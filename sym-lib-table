@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "COM-09032")(type "KiCad")(uri "C:/Users/Zhang/Downloads/COM_09032/COM-09032.kicad_sym")(options "")(descr ""))
+  (lib (name "TS02-66-60-BK-160-SCR-D")(type "KiCad")(uri "${KIPRJMOD}/Components/TS02-66-60-BK-160-SCR-D/TS02-66-60-BK-160-SCR-D.kicad_sym")(options "")(descr ""))
+)
